@@ -1,0 +1,15 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "Node.js accounting application migrated from legacy COBOL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
